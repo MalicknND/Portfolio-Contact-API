@@ -12,6 +12,7 @@ export const config = {
     allowedOrigins: [
       "https://portfolio.msndiaye.com",
       "http://localhost:5173",
+      "https://msndiaye.lovable.app",
     ],
   },
   limits: {
